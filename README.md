@@ -1,2 +1,2 @@
-# starbucks
+# Starbucks
 Official Starbucks Nutritional dataset
