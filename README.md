@@ -8,6 +8,14 @@ Official Starbucks Nutritional dataset from the pdf *Starbucks Coffee Company* B
 - `Product_Name` = the name of the item
 - `Size` = the size of the cup (the cup class) *short, tall, grande, venti*
 - `Milk` = the type of milk used
+  - `0` none
+  - `1` nonfat
+  - `2` 2%
+  - `3` soy
+  - `4` coconut
+  - `5` whole
+
+
 - `Whip` = if whip cream is added: `0` none, `1` whip 
 - `Serving_Size_mL` = the quantity of beverage in mL which differs based the name of cup size
 - `Calories` = total calores for beverage
